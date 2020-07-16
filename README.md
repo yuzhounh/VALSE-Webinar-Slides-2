@@ -2,8 +2,8 @@
 Copyright (C) 2020 Jing Wang
 
 Slides:  
-链接：https://pan.baidu.com/s/1_U0X9wOp5GR6Dwwp7c8McQ 
-提取码：c5nv
+链接：https://pan.baidu.com/s/1dq-G3fz5u_95AEQGJMEk9w 
+提取码：0rtw
 
 Download slides from: http://valser.org/webinar/slide/
 
