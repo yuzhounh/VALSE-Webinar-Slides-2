@@ -1,11 +1,10 @@
 # VALSE-Webinar-Slides
 Copyright (C) 2020 Jing Wang
 
-Slides:  
-链接：https://pan.baidu.com/s/1dq-G3fz5u_95AEQGJMEk9w 
+Slides: 链接：https://pan.baidu.com/s/1dq-G3fz5u_95AEQGJMEk9w 
 提取码：0rtw
 
-Download slides from: http://valser.org/webinar/slide/
+Link: http://valser.org/webinar/slide/
 
 Contact information:  
 Jing Wang  
