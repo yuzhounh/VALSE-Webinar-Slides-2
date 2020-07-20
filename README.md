@@ -1,7 +1,7 @@
 # VALSE-Webinar-Slides
+Download slides from: http://valser.org/webinar/slide/  
 Copyright (C) 2020 Jing Wang
 
-Download slides from: http://valser.org/webinar/slide/  
 320 items, 6.40 GB.  
 
 Contact information:  
